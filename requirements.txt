@@ -1,0 +1,12 @@
+ta
+pyarrow
+plotly
+schedule
+dataframe_image
+bokeh
+bokeh
+webdriver-manager
+selenium
+imgkit
+python-telegram-bot
+pyti
