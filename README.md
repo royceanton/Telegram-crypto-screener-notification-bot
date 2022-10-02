@@ -19,6 +19,9 @@ The complete algorithm used on the deployed CISE bot can be found in this report
 
 > [CPR Scanner for Binance & OKEX Exchange](https://jovian.ai/ranton95/cpr-okex)
 
+> [CPR Dashboard Algorithm](https://jovian.ai/ranton95/cpr-dashboard)
+
+
 **2. Initial Balance (IB):** Initial Balance (IB) is the price data, which are formed during the first hour of a trading session. Activity of traders forms the so-called Initial Balance at this time. The market profile shows traders horizontal volumes, that is how many contracts or stocks were sold or bought at each price level. 
 
 Initial Balance can give a trader many hints in respect of how the trading session would develop. It sets the tone of the trading session. It often happens that activity and volumes of trades during the first hour have the bigger significance than during the following hours. 
