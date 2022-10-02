@@ -40,3 +40,7 @@ Initial Balance can give a trader many hints in respect of how the trading sessi
 An exponential moving average (EMA) is a type of moving average (MA) that places a greater weight and significance on the most recent data points. The exponential moving average is also referred to as the exponentially weighted moving average. An exponentially weighted moving average reacts more significantly to recent price changes than a simple moving average simple moving average (SMA), which applies an equal weight to all observations in the period. In general, the 50- and 200-day EMAs are used as indicators for long-term trends. When a stock price crosses its 200-day moving average, it is a technical signal that a reversal has occurred. CISE bot uses the 200 period EMA for screening.
 
 > [Analysis on EMA-200 for BTC](https://jovian.ai/ranton95/200-ema-screener)
+
+# Disclaimer
+
+The material on this repository and the analysis has no regard to the specific investment objectives, financial situation, or particular needs of any user. This website is presented solely for informational and entertainment purposes and is not to be construed as a recommendation, solicitation, or an offer to buy or sell / long or short any securities, commodities, cryptocurrencies, or any related financial instruments. Nor should any of its content be taken as investment advice.
