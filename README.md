@@ -9,7 +9,7 @@ Live channel can be found here: https://t.me/CPR_EMA200_STC
 
 The CISE bot is a technical indicator that scans all the cryptocurrency futures Coin-M asset pairs hourly to find the pairs matching the technical conditions provided by the cise algorithm. 
 
-> [CISE Both Analysis Algorithm](https://jovian.ai/ranton95/test)
+> [CISE Bot Analysis Algorithm](https://jovian.ai/ranton95/test)
 
 The complete algorithm used on the deployed CISE bot can be found in this report. The separate study and analysis for each indicators that combines together to form the CISE screener are of the following:
 
