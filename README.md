@@ -47,3 +47,5 @@ The material on this repository and the analysis has no regard to the specific i
 
 
 ![Visitor Count](https://profile-counter.glitch.me/royceanton/count.svg)
+
+![](https://komarev.com/ghpvc/?username=royceanton&color=green)
