@@ -44,3 +44,6 @@ An exponential moving average (EMA) is a type of moving average (MA) that places
 # Disclaimer
 
 The material on this repository and the analysis has no regard to the specific investment objectives, financial situation, or particular needs of any user. This website is presented solely for informational and entertainment purposes and is not to be construed as a recommendation, solicitation, or an offer to buy or sell / long or short any securities, commodities, cryptocurrencies, or any related financial instruments. Nor should any of its content be taken as investment advice.
+
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
