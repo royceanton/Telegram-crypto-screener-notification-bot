@@ -47,3 +47,7 @@ The material on this repository and the analysis has no regard to the specific i
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=royceanton.CISE-Telegram-Crypto-Screener-Bot)
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
