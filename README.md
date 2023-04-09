@@ -1,7 +1,6 @@
 # CISE - Telegram Crypto Screener + Indicator Analysis
 
 Code implementation for running automated crypto screener on hourly charts.
-Live channel can be found here: https://t.me/CPR_EMA200_STC
 
 ![Image](https://i.gyazo.com/4cc3a228a70d83619af2d3c1c3f99c74.png)
 
