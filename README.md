@@ -1,4 +1,4 @@
-# CISE - Telegram Crypto Screener + Indicator Analysis
+#  Simple Telegram Crypto Screener + Indicator Analysis inside Jupyter Notebook
 
 Code implementation for running automated crypto screener on hourly charts.
 
